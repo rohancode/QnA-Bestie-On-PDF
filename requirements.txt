@@ -4,3 +4,7 @@ langchain
 huggingface_hub
 chromadb
 tiktoken
+sentence_transformers
+pinecone-client
+pypdf
+replicate
