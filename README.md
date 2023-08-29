@@ -29,12 +29,12 @@ Follow these steps to set up and run the PDF Question-Answering App on your loca
    ```bash
    pip install -r requirements.txt
 
-4. Add the content to the `.env` file:
+4. Add the following content to the `.env` file:
    ```dotenv
-   PINECODE_API_TOKEN="PINECODE_API_TOKEN"
+   PINECODE_API_TOKEN="PINECODE_API_TOKEN" #https://www.pinecone.io/
    PINECONE_ENV="PINECONE_ENV"
    PINECONE_INDEX="PINECONE_INDEX"
-   REPLICATE_API_TOKEN="REPLICATE_API_TOKEN"
+   REPLICATE_API_TOKEN="REPLICATE_API_TOKEN" #https://replicate.com/
    REPLICATE_MODEL_ENDPOINT13B=a16z-infra/llama13b-v2-chat:df7690f1994d94e96ad9d568eac121aecf50684a0b0963b25a41cc40061269e5
 
 ### Usage
