@@ -52,7 +52,7 @@ Follow these steps to set up and run the PDF Question-Answering App on your loca
 
 ### Demo
 
-![Demo](https://github.com/rohancode/.../abc.gif)
+![Demo](https://github.com/rohancode/QnA-Bestie-On-PDF/blob/main/app_demo.gif)
 
 ## Contact
 
